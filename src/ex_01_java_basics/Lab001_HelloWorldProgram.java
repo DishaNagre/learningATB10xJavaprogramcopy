@@ -1,4 +1,5 @@
 package ex_01_java_basics;
 
-public class Lab001_HelloWorldprogram {
+public class Lab001_HelloWorldProgram {
+
 }
